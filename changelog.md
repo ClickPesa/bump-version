@@ -1,4 +1,6 @@
 # NaN.0.0
+* fix getting version via bash
+# NaN.0.0
 * test getting version from bash
 # NaN.0.0
 * add build file
