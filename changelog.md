@@ -1,3 +1,7 @@
+# 1.2.3
+* fix getting package version via bash
+
+* test fetching actual current version
 # NaN.0.0
 * fix getting package version via bash
 # NaN.0.0
