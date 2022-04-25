@@ -1,4 +1,6 @@
 # NaN.0.0
+* test getting version from bash
+# NaN.0.0
 * add build file
 # NaN.0.0
 * No message for these changes
