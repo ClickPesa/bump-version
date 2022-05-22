@@ -1,6 +1,6 @@
 {
   "name": "bump-version",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "Bump app version",
   "main": "lib/main.js",
